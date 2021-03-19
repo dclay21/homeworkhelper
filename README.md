@@ -1,2 +1,2 @@
 # Homework Helper - Physics
-Code2College 2021 Spring Hackethon
+Code2College 2021 Spring Hackathon
